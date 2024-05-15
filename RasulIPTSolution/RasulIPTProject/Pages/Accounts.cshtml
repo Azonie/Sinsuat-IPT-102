@@ -1,0 +1,91 @@
+﻿@page
+@model RasulIPTProject.Pages.AccountsModel
+@{
+}
+<form method="post" asp-page-handler="Back">
+    <button type="submit">Back</button>
+</form>
+<center>
+    <h1>Accounts</h1>
+    <form method="post" asp-page-handler="Search">
+        <input asp-for="hub.Search" placeholder="Search" />
+        <button type="submit">Search</button>
+    </form>
+</center>
+
+
+
+<form method="post" asp-page-handler="Enable">
+    <button type="submit">Edit Mode ON</button>
+    <button asp-page-handler="Enable2" type="submit">Edit Mode OFF</button>
+</form>
+
+<form method="post" asp-page-handler="Create">
+    <input asp-for="hub.Account_Class.Id" hidden />
+    <input asp-for="hub.Account_Class.Name" placeholder="Name" />
+    <input asp-for="hub.Account_Class.Username" placeholder="Username" />
+    <input asp-for="hub.Account_Class.Password" placeholder="Password" />
+    <button type="submit">Create</button>
+</form>
+
+<table class="table">
+    <tr>
+        @if (Model.ORDER == "false")
+        {
+            <th>Name</th>
+            <th>Username</th>
+            <th>Password</th>
+            <th>Delete</th>
+            <th>Edit</th>
+        }else{
+            <th>Name</th>
+            <th>Username</th>
+            <th>Password</th>
+            <th>Update</th>
+            <th>Delete</th>
+        }
+    </tr>
+    @foreach (var a in Model.hub.Account_List)
+    {
+        if(Model.ORDER == "false")
+        {
+           <tr>
+                <td>@a.Name</td>
+                <td>@a.Username</td>
+                <td>@a.Password</td>
+                <td>
+                    <form method="post" asp-page-handler="Delete">
+                        <input asp-for="hub.Account_Class.Id" hidden value="@a.Id" />
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+                <td>
+                    <form method="post" asp-page-handler="Enable">
+                        <button type="submit">Edit</button>
+                    </form>
+                </td>
+            </tr>
+        }
+        else
+        {
+            <tr>
+                <form method="post" asp-page-handler="Update">
+                    <input asp-for="hub.Account_Class.Id" hidden value="@a.Id"/>
+                <td><input asp-for="hub.Account_Class.Name" placeholder="Name" value="@a.Name"/></td>
+                <td><input asp-for="hub.Account_Class.Username" placeholder="Username" value="@a.Username"/></td>
+                <td><input asp-for="hub.Account_Class.Password" placeholder="Password" value="@a.Password"/></td>
+                <td>
+                    <button type="submit">Update</button>
+                </td>
+                </form>
+                <td>
+                    <form method="post" asp-page-handler="Delete">
+                        <input asp-for="hub.Account_Class.Id" hidden value="@a.Id" />
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+
+    }
+</table>

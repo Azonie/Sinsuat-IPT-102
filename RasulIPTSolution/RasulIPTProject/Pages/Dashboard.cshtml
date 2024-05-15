@@ -1,0 +1,21 @@
+﻿@page
+@model RasulIPTProject.Pages.DashboardModel
+@{
+}
+<center>
+    <h1>Dashboard</h1>
+    <div class="centered-div bg1">
+        <form method="post">
+            <center>
+                <button type="submit" asp-page-handler="LogOut">LogOut</button>
+                <button type="submit" asp-page-handler="Log">Accounts</button>
+            </center>
+        </form>
+        <form method="post" asp-page-handler="Privacy">
+            <button type="submit">Privacy</button>
+        </form>
+        <form method="post" asp-page-handler="About">
+            <button type="submit">About</button>
+        </form>
+    </div>
+</center>

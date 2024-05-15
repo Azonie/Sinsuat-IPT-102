@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|c:\\users\\admin\\desktop\\rasuliptsolution\\rasuliptproject\\pages\\accounts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|solutionrelative:rasuliptproject\\pages\\accounts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|c:\\users\\admin\\desktop\\rasuliptsolution\\rasuliptproject\\pages\\hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|solutionrelative:rasuliptproject\\pages\\hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|c:\\users\\admin\\desktop\\rasuliptsolution\\rasuliptproject\\pages\\accounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|solutionrelative:rasuliptproject\\pages\\accounts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|c:\\users\\admin\\desktop\\rasuliptsolution\\rasuliptproject\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|solutionrelative:rasuliptproject\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|c:\\users\\admin\\desktop\\rasuliptsolution\\rasuliptproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|solutionrelative:rasuliptproject\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|solutionrelative:RasulDB\\SP\\Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|c:\\users\\admin\\desktop\\rasuliptsolution\\rasuliptproject\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|solutionrelative:rasuliptproject\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|c:\\users\\admin\\desktop\\rasuliptsolution\\rasuliptproject\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|solutionrelative:rasuliptproject\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|c:\\users\\admin\\desktop\\rasuliptsolution\\rasuliptproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BB68436-C7FE-4DA4-B266-D133EBF1B1A1}|RasulIPTProject\\RasulIPTProject.csproj|solutionrelative:rasuliptproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Login.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|solutionrelative:RasulDB\\SP\\Login.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Find.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|solutionrelative:RasulDB\\SP\\Find.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Edit.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|solutionrelative:RasulDB\\SP\\Edit.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Find.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|solutionrelative:RasulDB\\SP\\Find.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Edit.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|solutionrelative:RasulDB\\SP\\Edit.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Login.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|solutionrelative:RasulDB\\SP\\Login.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D5FECE23-D663-4A34-A870-FB1E37243194}|RasulDB\\RasulDB.sqlproj|solutionrelative:RasulDB\\SP\\Create.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.sql ",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Create.sql",
+              "RelativeDocumentMoniker": "RasulDB\\SP\\Create.sql",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Create.sql\r\n(localdb)\\ProjectModels.RasulDB\r\n(AZONIE\\admin)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-15T08:07:05.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Accounts.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Accounts.cshtml.cs",
+              "RelativeDocumentMoniker": "RasulIPTProject\\Pages\\Accounts.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Accounts.cshtml.cs",
+              "RelativeToolTip": "RasulIPTProject\\Pages\\Accounts.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:03:56.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Accounts.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Accounts.cshtml",
+              "RelativeDocumentMoniker": "RasulIPTProject\\Pages\\Accounts.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Accounts.cshtml",
+              "RelativeToolTip": "RasulIPTProject\\Pages\\Accounts.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T08:03:38.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "RasulIPTProject\\Pages\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "RasulIPTProject\\Pages\\Dashboard.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:03:23.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "RasulIPTProject\\Pages\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Dashboard.cshtml",
+              "RelativeToolTip": "RasulIPTProject\\Pages\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T08:03:11.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RasulIPTProject\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RasulIPTProject\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T08:02:59.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HUB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\HUB.cs",
+              "RelativeDocumentMoniker": "RasulIPTProject\\Pages\\HUB.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\HUB.cs",
+              "RelativeToolTip": "RasulIPTProject\\Pages\\HUB.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:59:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RasulIPTProject\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RasulIPTProject\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:59:32.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RasulIPTProject\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulIPTProject\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RasulIPTProject\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T07:58:47.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.sql ",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Login.sql",
+              "RelativeDocumentMoniker": "RasulDB\\SP\\Login.sql",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Login.sql\r\n(localdb)\\ProjectModels.RasulDB\r\n(AZONIE\\admin)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-15T07:57:52.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Find.sql ",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Find.sql",
+              "RelativeDocumentMoniker": "RasulDB\\SP\\Find.sql",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Find.sql\r\n(localdb)\\ProjectModels.RasulDB\r\n(AZONIE\\admin)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-15T07:55:33.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.sql ",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Edit.sql",
+              "RelativeDocumentMoniker": "RasulDB\\SP\\Edit.sql",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RasulIPTSolution\\RasulDB\\SP\\Edit.sql\r\n(localdb)\\ProjectModels.RasulDB\r\n(AZONIE\\admin)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-15T07:55:33.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

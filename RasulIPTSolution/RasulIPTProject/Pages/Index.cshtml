@@ -1,0 +1,41 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<center>
+    <h1>LOGIN</h1>
+</center>
+
+<form method="post" asp-page-handler="Add">
+    <center>
+        <input placeholder="Username" asp-for="hub.Account_Class.Username" /><br />
+        <input placeholder="Password" asp-for="hub.Account_Class.Password" /><br />
+        <button type="submit">Enter</button>
+        <button asp-page-handler="Privacy" type="submit">Privacy</button>
+        <button asp-page-handler="About" type="submit">About</button>
+
+    </center>
+
+</form>
+
+@foreach (var a in Model.hub.Account_List)
+{
+    if (a.Name != null)
+    {
+        <div class="centered-div bg1">
+            <form method="post">
+                <center>
+                    <h3>Are you @a.Name?</h3>
+                    <button type="submit" asp-page-handler="Log">Yes</button>
+                    <button type="submit" asp-page-handler="Log2">No</button>
+                </center>
+            </form>
+        </div>
+    }
+    else
+    {
+
+    }
+}
